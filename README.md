@@ -1,6 +1,6 @@
-# MERIPT
-MERIPT (mutation of epigenetic regulators in perturbed interactions) is an computational approach for identifying epigenetic regulator (ER) mutations associated with dysregulated
-molecular interactions. With genomic profiles of tumor samples, molecular interaction data and interested epigenetic regulator genes, MERIPT
+# MERIN
+MERIN (mutations of epigenetic regulators in perturbed interactions) is an computational approach for identifying epigenetic regulator (ER) mutations associated with dysregulated
+molecular interactions. With genomic profiles of tumor samples, molecular interaction data and interested epigenetic regulator genes, MERIN
 can effectively identify the ERs potentially involved in the interactions.
 
 ## Usage
